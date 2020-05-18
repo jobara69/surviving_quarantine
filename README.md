@@ -1,2 +1,3 @@
-# surviving_quarantine
-Jogo
+# Surviving Quarantine
+
+Jogo mobile sobre sobreviver a quarentena
